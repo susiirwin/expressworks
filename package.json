@@ -4,6 +4,7 @@
   "description": "",
   "main": "1-helloworld.js",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.11.2",
     "jade": "^1.11.0"
   },
